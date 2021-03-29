@@ -14,7 +14,8 @@
 
 ### Level 201:
 
-|  **Assignments:**  |                  **Link:**                |
-|--------------------|-------------------------------------------|
-|  Read-01           |[Read-01](Code 201 Reading Notes/Read01)   |
-|  Read-01           |[Read-01](Code 201 Reading Notes/Read01)   |
+|  **Assignments:**  |                    **Link:**                   |
+|--------------------|------------------------------------------------|
+|  Read-01           |[Read-01](Code 201 Reading Notes/Read01)        |
+|  Read-02           |[Read-01](Code 201 Reading Notes/class-02.md)   |
+|  Read-03           |[Read-01](Code 201 Reading Notes/class-03.md)   |
