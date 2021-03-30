@@ -17,5 +17,6 @@
 |  **Assignments:**  |                    **Link:**                   |
 |--------------------|------------------------------------------------|
 |  Read-01           |[Read-01](Code 201 Reading Notes/Read01)        |
-|  Read-02           |[Read-01](Code 201 Reading Notes/class-02.md)   |
-|  Read-03           |[Read-01](Code 201 Reading Notes/class-03.md)   |
+|  Read-02           |[Read-02](Code 201 Reading Notes/class-02.md)   |
+|  Read-03           |[Read-03](Code 201 Reading Notes/class-03.md)   |
+|  Read-04           |[Read-04](Code 201 Reading Notes/class-04.md)   |
