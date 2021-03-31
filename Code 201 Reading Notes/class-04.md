@@ -21,8 +21,7 @@ email to be sent to.
 - **containing or parent element**: If one block-level element sits inside another block-level element then the outer box is known as the containing or parent element.
 - It is common to group a number of elements together inside a `<div>`.
 
-- CSS has the following positioning  schemes that allow you to control the layout of a page, on which you can specify using the position
-property: 
+- CSS has the following positioning  schemes that allow you to control the layout of a page, on which you can specify using the position property : 
    - normal flow positioning (position:static): This the default browser window scheme. 
    -  relative positioning (position:relative): moves an element in relation to where it would have been in normal flow. 
    
