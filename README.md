@@ -20,5 +20,6 @@
 |  Read-02           |[Read-02](Code 201 Reading Notes/class-02.md)   |
 |  Read-03           |[Read-03](Code 201 Reading Notes/class-03.md)   |
 |  Read-04           |[Read-04](Code 201 Reading Notes/class-04.md)   |
-|  Read-05           |[Read-04](Code 201 Reading Notes/class-05.md)   |
-|  Read-06           |[Read-04](Code 201 Reading Notes/class-06.md)   |
+|  Read-05           |[Read-05](Code 201 Reading Notes/class-05.md)   |
+|  Read-06           |[Read-06](Code 201 Reading Notes/class-06.md)   |
+|  Read-07           |[Read-07](Code 201 Reading Notes/class-07.md)   |
