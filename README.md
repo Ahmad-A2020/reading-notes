@@ -1,5 +1,5 @@
 # reading-notes
-## ** The tables below include linkes for the reading assignment of this course:** 
+## **The tables below include linkes for the reading assignment of this course:** 
 
 ### Level 102:
 
@@ -23,3 +23,4 @@
 |  Read-05           |[Read-05](Code 201 Reading Notes/class-05.md)   |
 |  Read-06           |[Read-06](Code 201 Reading Notes/class-06.md)   |
 |  Read-07           |[Read-07](Code 201 Reading Notes/class-07.md)   |
+|  Read-08           |[Read-08](Code 201 Reading Notes/class-08.md)   |
