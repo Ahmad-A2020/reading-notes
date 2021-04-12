@@ -1,0 +1,14 @@
+#### Chart.js API.
+A **chart** is a graphical representation for data visualization, in which "the data is represented by symbols, such as bars in a bar chart, lines in a line chart, or slices in a pie chart". A chart can represent tabular numeric data, functions or some kinds of quality structure and provides different info. javascript support creating charts using Chart.js library. 
+**Chart.js**is a free open-source JavaScript library for data visualization, which supports 8 chart types: bar, line, area, pie, bubble, radar, polar, and scatter.
+- To use the Chart.js library. firstly, we need to download Chart.js. Copy the Chart.min.js out of the unzipped folder and into the directory you’ll be working in. Then create a new html page and import the script.
+- To draw any kind of charts, the first thing we need to do is create a canvas element in our HTML in which Chart.js can draw our chart.Next, we need to write a script that will retrieve the context of the canvas, then we can create our data.
+
+
+The HTML **`<canvas>` element**: is used to draw graphics, on the fly, via JavaScript. The `<canvas>` element is only a container for graphics. You must use JavaScript to actually draw the graphics. Canvas has several methods for drawing paths, boxes, circles, text, and adding images.
+
+**Canvas API:**The Canvas API provides a means for drawing graphics via JavaScript and the HTML <canvas> element. Among other things, it can be used for animation, game graphics, data visualization, photo manipulation, and real-time video processing
+- ` <canvas>` only supports two primitive shapes: rectangles and paths. For rectangles,there are three functions that draw rectangles on the canvas: *fillRect(x, y, width, height)*, which draws a filled rectangle; *strokeRect(x, y, width, height)*, which Draws a rectangular outline; and *clearRect(x, y, width, height)*, which clears the specified rectangular area, making it fully transparent. For paths, following are the functions used to perform the path:  *beginPath()*, which creates a new path. Once created, future drawing commands are directed into the path and used to build the path up, path methods;*Methods* to set different paths for objects; *closePath()*, adds a straight line to the path, going to the start of the current sub-path,*stroke()*; draws the shape by stroking its outline, and *fill()*; draws a solid shape by filling the path's content area.   
+
+
+- To apply colors to a shape, there are two important properties we can use: fillStyle(Sets the style used when filling shapes.) and strokeStyle(Sets the style for shapes' outlines). 

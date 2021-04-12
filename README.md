@@ -27,3 +27,4 @@
 |  Read-09           |[Read-09](Code 201 Reading Notes/class-09.md)   |
 |  Read-10           |[Read-10](Code 201 Reading Notes/class-10.md)   |
 |  Read-11           |[Read-11](Code 201 Reading Notes/class-11.md)   |
+|  Read-12           |[Read-12](Code 201 Reading Notes/class-12.md)   |
