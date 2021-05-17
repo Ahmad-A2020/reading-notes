@@ -1,0 +1,36 @@
+Reading
+### React Docs - lists and keys
+- What does .map() return?
+- **Answer:** it return an array that have the same length of the one you applied the callout function on it. 
+- If I want to loop through an array and display each value in JSX, how do I do that in React?
+- **Answer:** you can loop through the array using map,and you can build collections of elements and include them in JSX using curly braces {}
+- Each list item needs a unique **key**.
+- What is the purpose of a key?
+- **Answer:** A “key” is a special string attribute you need to include when creating lists of elements.Keys help React identify which items have changed, are added, or are removed
+### The Spread Operator: 
+- What is the spread operator?
+- **Answer:** The spread operator is a useful and quick syntax for adding items to arrays, combining arrays or objects, and spreading an array out into a function’s arguments.
+
+- List 4 things that the spread operator can do.
+- **Answer:**Copying an array, Concatenating or combining arrays, Using Math functions, Using an array as arguments, Adding an item to a list, Adding to state in React, Combining objects, and Converting NodeList to an array
+- Give an example of using the spread operator to combine two arrays.
+- **Answer:**
+`const hello = {hello: "😋😛😜🤪😝"}`
+`const world = {world: "🙂🙃😉😊😇🥰😍🤩!"}`
+`const helloWorld = {...hello,...world}`
+- Give an example of using the spread operator to combine two objects into one.
+- **Answer:**
+`const myArray = [`🤪`,`🐻`,`🎌`]`
+`const yourArray = [`🙂`,`🤗`,`🤩`]`
+`const ourArray = [...myArray,...yourArray]`
+### Videos: 
+How to Pass Functions Between Components
+- In the video, what is the first step that the developer does to pass functions between components?
+- **Answer:** create the function wherase the state is that we are going to change. 
+- In your own words, what does the increment function do?
+- **Answer:** It will take a name vallue, and then loop through the people array to find it and increase the  count properity by one.  
+- How can you pass a method from a parent component into a child component?
+- **Answer:**  inside the child propes `<childs  *add here the methods here* > `
+
+- How does the child component invoke a method that was passed to it from a parent component?
+- **Answer:** using props *this.props.name_of_method*
