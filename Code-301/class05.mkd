@@ -1,0 +1,18 @@
+### React Docs - thinking in React: 
+
+- How would you break a mock into a component heirarchy?
+- **Answer:** 
+    - first thing  you’ll want to do is to draw boxes around every component (and subcomponent) in the mock and give them all names.
+    -Separate your UI into components, where each component matches one piece of your data model.
+- What is the single responsibility principle and how does it apply to components?
+    - **Answer:** The single-responsibility principle (SRP) is a computer-programming principle that states that every module, class or function in a computer program should have responsibility over a single part of that program's functionality. 
+- What does it mean to build a ‘static’ version of your application?
+- **Answer:**  is to build a version that takes your data model and renders the UI but has no interactivity.
+- Once you have a static application, what do you need to add?
+- **Answer:** pass data using props
+- What are the three questions you can ask to determine if something is state? 
+    - Can be changed by parent Component?
+    - Can change inside Component?	
+    - Can change in child Components?	
+- How can you identify where state needs to live?
+- **Answer:** identify which component mutates, or owns, this state.
