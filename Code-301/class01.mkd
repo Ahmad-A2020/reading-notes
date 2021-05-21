@@ -1,0 +1,37 @@
+### Component Based Architecture:
+- What is a component?
+- **Answer:**A component is a modular, portable, replaceable, and reusable set of well-defined functionality that encapsulates its implementation and exporting it as a higher-level interface.
+- What are the charactistics of a component?
+- **Answer:**
+- What are the advantages of using component based architecture?
+     - Reduced time in market and the development cost by reusing existing components. 
+     - Increased reliability with the reuse of the existing components.
+### What is Props and How to Use it in React
+- What is props short for?
+- **Answer:**“Props” is a special keyword in React, which stands for properties and is being used for passing data from one component to another.
+
+- How are props used in React?
+    - Firstly, define an attribute and its value(data)
+    - Then pass it to child component(s) by using Props
+    - Finally, render the Props Data
+- What is the flow of props?
+- **Answer:** uni-directional flow (one way from parent to child).
+ ## Bookmark/Skim
+### React Tutorial through ‘Passing Data Through Props’:
+**React** is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called “components”.
+
+
+### React Docs - hello world
+this part includes aguide line for using  this documentation 
+### React Docs - introducing JSX
+- JSX stands for JavaScript XML. JSX allows us to write HTML in React. JSX makes it easier to write and add HTML in React.To use JavaScript inside of JSX, you need to surround it with curly braces: {}.
+
+### React Docs - rendering elements:
+- **Elements** are the smallest building blocks of React apps.
+- To render a React element into a root DOM node, pass both to ReactDOM.render()
+- React elements are immutable. Once you create an element, you can’t change its children or attributes. 
+### React Docs - Components and props:
+- Components let you split the UI into independent, reusable pieces, and think about each piece in isolation.
+- The simplest way to define a component is to write a JavaScript function.We call such components “function components” because they are literally JavaScript functions.
+- You can also use an ES6 class to define a component:
+
