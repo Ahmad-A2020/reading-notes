@@ -1,0 +1,35 @@
+
+### What Google Learned From Its Quest to Build the Perfect Team
+sammarized in 201 class 14
+### How I explained REST to my brother
+- Who is Roy Fielding?
+- **Answer:** smart guy 
+- Why don’t the techniques that we use today work well when we need to be able to  talk to all of the machines in the world?
+- **Answer:**Because they weren't designed to be used like that.
+- What is the HTTP protocol that Fielding and his friends created?
+- **Answer:** HTTP is a protocol which allows the fetching of resources, such as HTML documents
+- What does a GET do?
+- **Answer:**GET is used to request data from a specified resource.
+- What does a POST do?
+- **Answer:** POST is used to send data to a server to create/update a resource.
+- What does PUT do?
+- **Answer:** PUT is used to send data to a server to create/update a resource.
+The difference between POST and PUT is that PUT requests are idempotent.
+- What does PATCH do?
+- **Answer:** The HTTP PATCH request method applies partial modifications to a resource.
+
+### API Keys
+Request a personal API key from the following APIs. You should receive these in your email within a few hours, often within minutes. Please request these keys prior to lecture to allow adequate time because you will need them in order to complete your lab assignment. Note: do not post your API keys in the Canvas discussion or on GitHub. Save them in a secure place.
+
+#### Geocoding API
+- Did you get your API key?
+- **Answer:** YES
+#### Weather Bit API
+- Did you get your API key?
+- **Answer:** YES
+#### Yelp API Docs
+- Did you get your API key?
+- **Answer:** YES
+#### The Movie DB API Docs
+- Did you get your API key?
+- **Answer:** YES
