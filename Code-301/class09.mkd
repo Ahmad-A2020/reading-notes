@@ -1,0 +1,22 @@
+### Functional Programming Concepts
+- What is functional programming?
+    - **Answer:**nctional programming is a programming paradigm — a style of building the structure and elements of computer programs — that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data 
+- What is a pure function and how do we know if something is a pure function?
+- **Answer:** It returns the same result if given the same arguments (it is also referred as deterministic), and It does not cause any observable side effects
+- What are the benefits of a pure function?
+- **Answer:**The code’s definitely easier to test. We don’t need to mock anything.
+- What is immutability?
+- **Answer:**Unchanging over time or unable to be changed.
+- What is Referential transparency?
+- **Answer:**if a function consistently yields the same result for the same input, it is referentially transparent.
+### Videos
+- Node JS Tutorial for Beginners #6 - Modules and require()
+- **Answer:**
+- What is a module?
+- **Answer:**is a simple or complex functionality organized in single or multiple JavaScript files which can be reused throughout the Node. js application
+- What does the word ‘require’ do?
+- **Answer:**The require() method is used to load and cache JavaScript modules. 
+- How do we bring another module into the file the we are working in?
+- **Answer:** export it from the module file and then require it at our file
+- What do we have to do to make a module available? 
+- **Answer:** require it in our file
