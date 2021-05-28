@@ -1,0 +1,26 @@
+### Understanding the JavaScript Call Stack
+- What is a ‘call’?
+- **Answer:**  function invocation
+- How many ‘calls’ can happen at once?
+- **Answer:** single
+- What does LIFO mean?
+- **Answer:**  Last In, First Out (LIFO) principle, which means that the last function that gets pushed into the stack is the first to be pop out, when the function returns.
+- Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.
+- What causes a Stack Overflow?
+- **Answer:**A stack overflow occurs when there is a recursive function (a function that calls itself) without an exit point. 
+
+### JavaScript error messages
+What is a ‘refrence error’?
+- **Answer:** This is as simple as when you try to use a variable that is not yet declared you get this type os errors.
+- What is a ‘syntax error’?
+- **Answer:**  this occurs when you have something that cannot be parsed in terms of syntax
+- What is a ‘range error’?
+- **Answer:** A RangeError is thrown when trying to pass a value as an argument to a function that does not allow a range that includes the value.
+- What is a ‘tyep error’?
+- **Answer:** The TypeError object represents an error when an operation could not be performed, typically (but not exclusively) when a value is not of the expected type
+
+What is a breakpoint?
+- **Answer:**  a breakpoint is an intentional stopping or pausing place in a program, put in place for debugging purposes
+
+What does the word ‘debugger’ do in your code?
+- **Answer:**  Debugging is the process of detecting and removing of existing and potential errors (also called as 'bugs') in a software code that can cause it to behave unexpectedly or crash
