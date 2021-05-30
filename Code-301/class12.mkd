@@ -5,9 +5,6 @@
 |-------------------------------|------------------------------------------------------------------------|
 |  Relational Databases (RDBMS) | non-relational or distributed database.                                |
 |  table based databases        |[ocument based, key-value pairs, graph databases or wide-column stores. |
-| have predefined schema        |dynamic schema                                                          |
-|  vertically scalable          |horizontally scalable                                                   |
-|  uses SQL                     |Not uses SQL                                                            |
 
 ### Level 102:
 
