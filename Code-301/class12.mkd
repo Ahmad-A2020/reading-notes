@@ -1,12 +1,16 @@
 ### nosql vs sql
 - Fill in the chart below with five differences between SQL and NoSQL databases:
 <br>
+
+
+### Level 102:
 |             **SQL**           |                                **NoSQL:**                              |
 |-------------------------------|------------------------------------------------------------------------|
 |  Relational Databases (RDBMS) | non-relational or distributed database.                                |
 |  table based databases        |[ocument based, key-value pairs, graph databases or wide-column stores. |
-
-### Level 102:
+| have predefined schema        |dynamic schema                                                          |
+|  vertically scalable          |horizontally scalable                                                   |
+|  uses SQL                     |Not uses SQL                                                            |
 
 |  **Assignments:**  |                 **Link:**                 |
 |--------------------|-------------------------------------------|
