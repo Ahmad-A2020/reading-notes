@@ -1,7 +1,7 @@
 ### nosql vs sql
 - Fill in the chart below with five differences between SQL and NoSQL databases:
 SQL	NoSQL
-|  **SQL**  |           **NoSQL:**              |
+|             **SQL**           |                                **NoSQL:**                              |
 |-------------------------------|------------------------------------------------------------------------|
 |  Relational Databases (RDBMS) | non-relational or distributed database.                                |
 |  table based databases        |[ocument based, key-value pairs, graph databases or wide-column stores. |
@@ -22,7 +22,7 @@ SQL	NoSQL
 - Which type of database is best for scalability?
  **Answer:**  SQL databases
 
- 
+
 ### mongoose api
 #### Videos: sql vs nosql (Video)
 
