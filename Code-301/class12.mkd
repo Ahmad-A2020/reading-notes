@@ -1,0 +1,46 @@
+### nosql vs sql
+- Fill in the chart below with five differences between SQL and NoSQL databases:
+SQL	NoSQL
+|  **SQL**  |           **NoSQL:**              |
+|-------------------------------|------------------------------------------------------------------------|
+|  Relational Databases (RDBMS) | non-relational or distributed database.                                |
+|  table based databases        |[ocument based, key-value pairs, graph databases or wide-column stores. |
+| have predefined schema        |dynamic schema                                                          |
+|  vertically scalable          |horizontally scalable                                                   |
+|  uses SQL                     |Not uses SQL                                                            |
+
+- What kind of data is a good fit for an SQL database?
+- **Answer:** SQL databases are good fit for the complex query intensive environment
+- Give a real world example.
+ **Answer:** if you are developing a point of sale system where you need to store customer orders and product records
+- What kind of data is a good fit a NoSQL database?
+ **Answer:** not complex as well as the hierarchical data storage as it follows the key-value pair way of storing data similar to JSON data. 
+- Give a real world example.
+ **Answer:** JSON data. 
+- Which type of database is best for hierarchical data storage?
+ **Answer:** NoSQL 
+- Which type of database is best for scalability?
+ **Answer:**  SQL databases
+
+ 
+### mongoose api
+#### Videos: sql vs nosql (Video)
+
+- What does SQL stand for?
+**Answer:** Structured Query Language
+- What is a realational database?
+**Answer:** A relational database is a type of database that stores and provides access to data points that are related to one another
+- What type of structure does a relational database work with?
+**Answer:** In the relational model, all data is logically structured within relations (also called table).
+- What is a ‘schema’?
+**Answer:** The database schema is its structure described in a formal language supported by the database management system.
+- What is a NoSQL database?
+**Answer:** NoSQL, which stands for “not only SQL,” is an approach to database design that provides flexible schemas for the storage and retrieval of data beyond the traditional table structures found in relational databases. 
+- Howo does it work?
+**Answer:** NoSQL databases do not rely on these structures and use more flexible data models
+- What is inside of a Mongo database?
+**Answer:** In MongoDB, data is stored as documents
+- Which is more flexible - SQL or MongoDB? and why.
+**Answer:** MongoDB
+- What is the disadvantage of a NoSQL database?
+**Answer:** don't have the reliability functions which Relational Databases have. 
