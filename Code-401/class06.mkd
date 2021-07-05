@@ -6,4 +6,4 @@
 - The interface body can contain abstract methods, default methods, and static methods.
 - To declare a class that implements an interface, you include an implements clause in the class declaration.
 - When you define a new interface, you are defining a new reference data type. You can use interface names anywhere you can use any other data type name
-- 
+-
