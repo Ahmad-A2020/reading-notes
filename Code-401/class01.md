@@ -1,3 +1,10 @@
+Resources:
+- [Java Basics](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html)
+- [compiler](https://www.reddit.com/r/explainlikeimfive/comments/233dq5/eli5_what_does_it_mean_to_compile_code/)
+- [Java Documentation](https://www.dummies.com/programming/java/making-sense-of-javas-api-documentation/)
+
+
+
 ### Java Basics
 ##### **Variables:** 
 The Java programming language defines the following kinds of variables:

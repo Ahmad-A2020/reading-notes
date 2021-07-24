@@ -1,4 +1,6 @@
-
+Resources: 
+- [Spring App Basics](https://spring.io/guides/gs/serving-web-content/)
+- [Spring MVC and Thymeleaf](https://www.thymeleaf.org/doc/articles/springmvcaccessdata.html)
 ### Spring App Basics:
 - First step: use the Spring Initializr to generate a new project with the required dependencies (Spring Web, Thymeleaf, and Spring Boot DevTools).
 - Second step: Create a Web Controller as shown below: 

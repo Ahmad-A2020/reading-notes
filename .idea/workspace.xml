@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="638e7205-805a-4fbe-aa2a-07d90c196bed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Code-401/class16.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code-401/class01.mkd" beforeDir="false" afterPath="$PROJECT_DIR$/Code-401/class01.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code-401/class02.mkd" beforeDir="false" afterPath="$PROJECT_DIR$/Code-401/class02.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code-401/class03.mkd" beforeDir="false" afterPath="$PROJECT_DIR$/Code-401/class03.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code-401/class04.mkd" beforeDir="false" afterPath="$PROJECT_DIR$/Code-401/class04.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code-401/class05.mkd" beforeDir="false" afterPath="$PROJECT_DIR$/Code-401/class05.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code-401/class06.mkd" beforeDir="false" afterPath="$PROJECT_DIR$/Code-401/class06.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code-401/class07.mkd" beforeDir="false" afterPath="$PROJECT_DIR$/Code-401/class07.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code-401/class08.mkd" beforeDir="false" afterPath="$PROJECT_DIR$/Code-401/class08.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code-401/class09.mkd" beforeDir="false" afterPath="$PROJECT_DIR$/Code-401/class09.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code-401/class10.mkd" beforeDir="false" afterPath="$PROJECT_DIR$/Code-401/class10.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code-401/class11.md" beforeDir="false" afterPath="$PROJECT_DIR$/Code-401/class11.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code-401/class12.md" beforeDir="false" afterPath="$PROJECT_DIR$/Code-401/class12.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code-401/class16.md" beforeDir="false" afterPath="$PROJECT_DIR$/Code-401/class16.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +35,8 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Code-401/class10.mkd" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Code-401/class09.mkd" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Code-401/class10.md" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Code-401/class09.md" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1ugEM5cFJxvzrE9l82Rw9QYQAto" />
   <component name="ProjectViewState">
@@ -45,6 +58,9 @@
       <updated>1625078793540</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.mkd" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

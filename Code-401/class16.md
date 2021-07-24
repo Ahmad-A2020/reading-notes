@@ -27,15 +27,18 @@ Resources:
   Once authentication is successful, we can move on to authorization, and the core strategy here is AccessDecisionManager
    - **Web Security**: Spring Security in the web tier (for UIs and HTTP back ends) is based on Servlet Filters. Spring Security is installed as a single Filter in the chain, and its concrete type is FilterChainProxy, and  the security filter is a @Bean in the ApplicationContext, and it is installed by default so that it is applied to every request. 
   -createing and Customizing Filter Chains: The default fallback filter chain in a Spring Boot application (the one with the /** request matcher) has a predefined order of SecurityProperties.BASIC_AUTH_ORDER. You can switch it off completely by setting security.basic.enabled=false, or you can use it as a fallback and define other rules with a lower order. To do the latter, add a @Bean of type WebSecurityConfigurerAdapter (or WebSecurityConfigurer) and decorate the class with @Order, as follows:
-     `@Configuration
+     ```
+     @Configuration
      @Order(SecurityProperties.BASIC_AUTH_ORDER - 10)
      public class ApplicationConfigurerAdapter extends WebSecurityConfigurerAdapter {
      @Override
      protected void configure(HttpSecurity http) throws Exception {
      http.antMatcher("/match1/**")
-     ...;
+     ;
      }
-     }`
+     }
+     
+     ```
      
 
 
@@ -48,3 +51,4 @@ the following is a summarize steps for auth:
 -Step 5: WebSecurityConfig extends WebSecurityConfigurerAdapter
 - Step 6: registration page
 - Step 7: login page
+

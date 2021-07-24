@@ -1,13 +1,17 @@
-### Java Imports (ignore the parts about NetBeans): 
+Resources:
+- [Java Imports](https://perso.ensta-paris.fr/~diam/java/online/notes-java/language/10basics/import.html)
+- [Different types of loops in Java](https://www.baeldung.com/java-loops)
+
+### Java Imports (ignore the parts about NetBeans):
 - Packages: it is the directory contains the .java files (clases).
-- to declarae Package, we use import statements.
+- to declare Package, we use import statements.
 - for the Default package, it's possible to omit the package declaration.
-- there are three options for importing clasess. first by importing all pakages classes sush as `import javax.swing.*`, on where the wildcard character (*) indicate to import all classes. second is specified explicitly on import the class name sush as `import javax.swing.JOptionPane`, and the last one is by fully qualified class name without an import such as  `javax.swing.JOptionPane....`.
+- there are three options for importing classes. first by importing all packages classes such as `import javax.swing.*`, on where the wildcard character (*) indicate to import all classes. second is specified explicitly on import the class name sush as `import javax.swing.JOptionPane`, and the last one is by fully qualified class name without an import such as  `javax.swing.JOptionPane....`.
 
 ### Different types of loops in Java:
 
 looping: it is  is a feature which facilitates the execution of a set of instructions until the controlling Boolean-expression evaluates to false. following are  the loop types in Java: 
--  for loop: use to iterateation , which allows code to be executed repeatedly.there are different for loop in java including : 
+-  for loop: use to iteration , which allows code to be executed repeatedly.there are different for loop in java including :
      - simple for loop as illustrate below:  
      `for (initialization; Boolean-expression; step)` 
      `statement;` 

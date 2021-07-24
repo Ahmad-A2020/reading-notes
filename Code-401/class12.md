@@ -1,3 +1,8 @@
+### resources: 
+- [Baeldung: Spring Request Mapping](https://www.baeldung.com/spring-requestmapping)
+- [Spring guide: Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
+- [Baeldung: Comparing repositories](https://www.baeldung.com/spring-data-repositories)
+
 ### [Baeldung: Spring Request Mapping](https://www.baeldung.com/spring-requestmapping)
 - RequestMapping — by Path: the HTTP request, and a header for the request can be specifying as shown in the example below.
   

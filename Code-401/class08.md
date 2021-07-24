@@ -1,3 +1,8 @@
+Resources:
+- [SOLID principles intro](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+- [OO SOLID principles in real life](https://dzone.com/articles/the-solid-principles-in-real-life)
+
+
 ### SOLID principles intro
 - SOLID is an acronym for the first five object-oriented design (OOD) principles by Robert C. Martin as follows:
 - S : Single-responsiblity Principle

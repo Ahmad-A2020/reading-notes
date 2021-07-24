@@ -1,4 +1,9 @@
-### Primitives vs. Objects: 
+Resources:
+- [Primitives vs. Objects](https://www.baeldung.com/java-primitives-vs-objects)
+-[Exceptions](https://docs.oracle.com/javase/tutorial/essential/exceptions/index.html)
+- [Using Scanner to read in a file in Java](https://docs.oracle.com/javase/tutorial/essential/io/scanning.html)
+
+### Primitives vs. Objects:
 - Java has a two-fold type system consisting of primitives such as int, boolean and reference types such as Integer, Boolean.
 - Default values of the primitive types are 0 for numeric types, false for the boolean type, For the wrapper classes, the default value is null.
 
