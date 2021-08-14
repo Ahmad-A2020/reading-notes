@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="638e7205-805a-4fbe-aa2a-07d90c196bed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Code-401/class17.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code-401/class18.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code-401/class19.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code-401/class26.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code-401/class27.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code-401/class29.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code-401/class30.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,8 +23,10 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Code-401/class10.md" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Code-401/class12.md" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Code-401/class09.md" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Code-401/class28.md" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Code-401/class29.md" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1ugEM5cFJxvzrE9l82Rw9QYQAto" />
   <component name="ProjectViewState">
