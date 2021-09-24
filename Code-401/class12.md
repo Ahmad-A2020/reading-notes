@@ -3,6 +3,10 @@
 - [Spring guide: Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
 - [Baeldung: Comparing repositories](https://www.baeldung.com/spring-data-repositories)
 
+#### [lab](https://github.com/Ahmad-A2020/songr):
+![lab10](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab12-1.PNG)
+![lab10](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab12-2.PNG)
+
 ### [Baeldung: Spring Request Mapping](https://www.baeldung.com/spring-requestmapping)
 - RequestMapping — by Path: the HTTP request, and a header for the request can be specifying as shown in the example below.
   

@@ -1,6 +1,14 @@
-Resources:
+#### Resources:
 - [Spring Security overview](https://spring.io/guides/topicals/spring-security-architecture/)
 - [Spring Auth cheat sheet](https://github.com/codefellows/seattle-java-401d2/blob/master/SpringAuthCheatSheet.md)
+
+#### [lab](https://github.com/Ahmad-A2020/songr):
+![lab16](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab16-1.PNG)
+![lab16](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab16-2.PNG)
+![lab16](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab16-3.PNG)
+![lab16](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab16-4.PNG)
+![lab16](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab16-5.PNG)
+
 
 #### [Spring Security overview](https://spring.io/guides/topicals/spring-security-architecture/)
 - **Authentication** is the act of proving an assertion, such as the identity of a computer system user. In contrast with identification, the act of indicating a person or thing's identity, authentication is the process of verifying that identity.

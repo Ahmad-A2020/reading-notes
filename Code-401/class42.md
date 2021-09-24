@@ -1,3 +1,5 @@
+#### [lab](https://github.com/Ahmad-A2020/taskmaster):
+![lab42](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab42-1.PNG)
 ### Get the last known location
 
 Using the Google Play services location APIs, your app can request the last known location of the user's device. The fused location provider is one of the location APIs in Google Play services.To access the fused location provider, your app's development project must include Google Play services. Download and install the Google Play services component via the SDK Manager and add the library to your project. this happened by adding the following dependency:

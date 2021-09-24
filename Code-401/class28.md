@@ -1,8 +1,11 @@
 
 
-Resources:
+#### Resources:
 - [RecyclerView for displaying lists of data](https://developer.android.com/guide/topics/ui/layout/recyclerview#java)
 
+#### [lab](https://github.com/Ahmad-A2020/taskmaster):
+![lab28](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab28-1.PNG)
+![lab28](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab28-2.PNG)
 
 ### Create dynamic lists with RecyclerView
 

@@ -1,4 +1,8 @@
 - [Resources](https://developer.android.com/distribute/best-practices/earn/monetization-options)
+
+#### [lab](https://github.com/Ahmad-A2020/taskmaster):
+![lab34](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab34-1.PNG)
+
 #### Android Monetization:
   - How to Sell goods or services through your app ?   there are two primary ways you can accept payments: Google Play's billing system and Google Pay.
        - Sell digital goods or services with Google Play's billing system:  Google Play's billing system makes it easy for users to consistently, securely, and seamlessly purchase your goods and services for your app. Once users save a payment method on Google Play, they can use that same payment method for all future purchases on Google Play with just a tap. Items that require developers to use Google Play's billing system include the following:

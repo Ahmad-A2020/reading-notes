@@ -1,5 +1,9 @@
 ### REsources: 
 - [Amplify and Cognito](https://docs.amplify.aws/lib/auth/getting-started/)
+
+#### [lab](https://github.com/Ahmad-A2020/taskmaster):
+![lab33](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab36-1.PNG)
+
 ### Amplify and Cognito
 - introduction :  The Amplify Auth category provides an interface for authenticating a user. Behind the scenes, it provides the necessary authorization to the other Amplify categories.
   - work steps: 

@@ -1,3 +1,12 @@
+#### Resources: .
+- [Android fundamentals](https://developer.android.com/guide/components/fundamentals)
+- [Android Buttons](https://developer.android.com/guide/topics/ui/controls/button.html)
+- [Android UI Events](https://developer.android.com/guide/topics/ui/ui-events.html)
+
+#### [lab](https://github.com/Ahmad-A2020/taskmaster):
+![lab26](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab26-1.PNG)
+![lab26](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab26-2.PNG)
+
 #### [Android fundamentals](https://developer.android.com/guide/components/fundamentals)
 - there are many languages could be use to create android application including Kotlin, Java, and C++. 
 - A software development kit (SDK) is a collection of software development tools in one installable package. They facilitate the creation of applications by having a compiler, debugger and perhaps a software framework.

@@ -1,6 +1,12 @@
 ##### REsources: 
 - [Introduction to Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html)
 - [S3 with Amplify](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html)
+- [S3 Amplify](https://docs.amplify.aws/lib/storage/getting-started/q/platform/android/)
+- [Amplify Getting Started](https://docs.amplify.aws/)
+- [Android File Picker](https://developer.android.com/guide/topics/providers/document-provider)
+
+#### [lab](https://github.com/Ahmad-A2020/taskmaster):
+![lab33](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab37-1.PNG)
 
 ### Introduction to Amazon S3
 - Amazon Simple Storage Service (Amazon S3) is storage for the Internet. It is designed to make web-scale computing easier.

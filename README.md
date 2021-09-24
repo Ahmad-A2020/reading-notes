@@ -73,3 +73,21 @@
 |Read: 15-trees                   |[Read-15](Code-401/class15)  |
 |Read: 16 - Spring Authentication |[Read-16](Code-401/class16)  |
 |Read: 17 - Spring Authorization  |[Read-17](Code-401/class17)  |
+|Read: 18 -  Spring Security      |[Read-18](Code-401/class18)  |
+|Read: 19 - Polish CodeFellowship |[Read-19](Code-401/class19)  |
+|Read: 26 - Android Fundamentals  |[Read-26](Code-401/class26)  |
+|Read: 27 - Data in TaskMaster    |[Read-27](Code-401/class27)  |
+|Read: 28 - RecyclerView          |[Read-28](Code-401/class28)  |
+|Read: 29 - Room                  |[Read-29](Code-401/class29)  |
+|Read: 30 - Hash Tables           |[Read-30](Code-401/class30)  |
+|Read: 31 - Espresso              |[Read-31](Code-401/class31)  |
+|Read: 32 - Serverless and Amplify|[Read-32](Code-401/class32)  |
+|Read: 33 - GraphQL @connection   |[Read-33](Code-401/class33)  |
+|Read: 34 - Publishing-Play Store |[Read-34](Code-401/class34)  |
+|Read: 35 - Graph                 |[Read-35](Code-401/class35)  |
+|Read: 36 - Cognito               |[Read-36](Code-401/class36)  |
+|Read: 37 - S3                    |[Read-37](Code-401/class37)  |
+|Read: 38 - Notifications         |[Read-38](Code-401/class38)  |
+|Read: 39 - Review                |[Read-39](Code-401/class39)  |
+|Read: 41 - Intent Filters        |[Read-41](Code-401/class41)  |
+|Read: 42 - Location              |[Read-42](Code-401/class42)  |

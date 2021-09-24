@@ -1,7 +1,12 @@
-Resources:
+### Resources:
 - [Primitives vs. Objects](https://www.baeldung.com/java-primitives-vs-objects)
 -[Exceptions](https://docs.oracle.com/javase/tutorial/essential/exceptions/index.html)
 - [Using Scanner to read in a file in Java](https://docs.oracle.com/javase/tutorial/essential/io/scanning.html)
+
+#### [lab](https://github.com/Ahmad-A2020/java-fundamentals):
+![lab3](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab3-1.PNG)
+![lab3](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab3-2.PNG)
+![lab3](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab3-3.PNG)
 
 ### Primitives vs. Objects:
 - Java has a two-fold type system consisting of primitives such as int, boolean and reference types such as Integer, Boolean.

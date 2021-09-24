@@ -1,4 +1,12 @@
-###   [Related data in Spring (focus on the relationship annotations, not the curl requests)](https://www.baeldung.com/spring-data-rest-relationships)
+
+### Resources:
+- [Related data in Spring (focus on the relationship annotations, not the curl requests)](https://www.baeldung.com/spring-data-rest-relationships)
+- [Integration Testing in Spring](https://www.baeldung.com/integration-testing-in-spring)
+
+#### [lab](https://github.com/Ahmad-A2020/songr):
+![lab10](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab13-1.PNG)
+
+### relations 
 - One-to-One Relationship:In a one-to-one relationship, one record in a table is associated with one and only one record in another table. For example, in a school database, each student has only one student ID, and each student ID is assigned to only one person 
   
      - define two entity classes such as Library and Address  and add the relation ( one-to-one relationship) as shown below.

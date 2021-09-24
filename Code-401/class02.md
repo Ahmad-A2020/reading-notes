@@ -1,6 +1,11 @@
-Resources:
+#### Resources:
 - [Java Imports](https://perso.ensta-paris.fr/~diam/java/online/notes-java/language/10basics/import.html)
 - [Different types of loops in Java](https://www.baeldung.com/java-loops)
+
+#### lab: 
+![lab1-1](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab2-1.PNG)
+![lab1-2](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab2-2.PNG)
+![lab1-2](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab2-3.PNG)
 
 ### Java Imports (ignore the parts about NetBeans):
 - Packages: it is the directory contains the .java files (clases).

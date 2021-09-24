@@ -1,6 +1,10 @@
-Resources: 
+#### Resources: 
 -[Many to many relationships](https://www.baeldung.com/hibernate-many-to-many)
 - [Security: a humorous overview](https://scholar.harvard.edu/files/mickens/files/thisworldofours.pdf)
+
+#### [lab](https://github.com/Ahmad-A2020/songr):
+[lab18-Cheat Cheat_security](https://github.com/joj5/401-TEMP/tree/main/curriculum/class-18/lab#readme)
+
 
 ### Many to many relationships: 
 A many-to-many relationship occurs when multiple records in a table are associated with multiple records in another table

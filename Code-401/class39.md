@@ -1,6 +1,9 @@
 ### Resources: 
 - [Amplify and Kinesis](https://docs.amplify.aws/sdk/analytics/kinesis/q/platform/android/#working-with-the-api)
+- [Amplify Getting Started Analytics](https://docs.amplify.aws/lib/analytics/getting-started/q/platform/android/)
 
+#### [lab](https://github.com/Ahmad-A2020/taskmaster):
+![lab39](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab39-1.PNG)
 
 ### Using Amazon Kinesis
 

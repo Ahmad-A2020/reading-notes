@@ -1,7 +1,10 @@
-Resources:
+### Resources:
 - [SOLID principles intro](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 - [OO SOLID principles in real life](https://dzone.com/articles/the-solid-principles-in-real-life)
+- [GSON User Guide](https://github.com/google/gson/blob/master/UserGuide.md)
 
+#### [lab](https://github.com/Ahmad-A2020/quotes):
+![lab8](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab8-1.PNG)
 
 ### SOLID principles intro
 - SOLID is an acronym for the first five object-oriented design (OOD) principles by Robert C. Martin as follows:

@@ -3,6 +3,10 @@
 - [Amplify Kool-Aid](https://aws.amazon.com/amplify/)
 - [GraphQL Intro (just read the header text, Quick Start, and @model sections)](https://docs.amplify.aws/cli/graphql-transformer/overview#create-a-graphql-api)
 
+#### [lab](https://github.com/Ahmad-A2020/taskmaster):
+![lab32](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab32-1.PNG)
+![lab32](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab32-2.PNG)
+
 ### Intro to Serverless
 - Definition : Serverless computing is a cloud computing execution model in which the cloud provider allocates machine resources on demand, taking care of the servers on behalf of their customers.
 - cloude provider : following is a list of main provider for such service 

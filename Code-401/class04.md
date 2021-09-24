@@ -2,6 +2,11 @@ Resources:
 - [Object-Oriented Programming Concepts](https://docs.oracle.com/javase/tutorial/java/concepts/)
 - [Classes](https://docs.oracle.com/javase/tutorial/java/javaOO/classes.html)
 - [Binary, Decimal and Hexadecimal Numbers](https://www.mathsisfun.com/binary-decimal-hexadecimal.html)
+- 
+#### [lab](https://github.com/Ahmad-A2020/java-fundamentals):
+![lab3](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab4-1.PNG)
+![lab3](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab4-2.PNG)
+![lab3](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab4-3.PNG)
 
 A Java object is a self-contained component which consists of methods and properties to make certain type of data useful.
 
