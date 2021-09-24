@@ -4,7 +4,7 @@
 - [Baeldung: Comparing repositories](https://www.baeldung.com/spring-data-repositories)
 
 #### [lab](https://github.com/Ahmad-A2020/songr):
-![lab10](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab12-1.PNG)
+![lab10](https://github.com/Ahmad-A2020/reading-notes/blob/main/Code-401/ScreenShot/lab12-1.PNG)
 ![lab10](/Code-401/ScreenShot/lab12-2.PNG)
 
 ### [Baeldung: Spring Request Mapping](https://www.baeldung.com/spring-requestmapping)
