@@ -3,7 +3,7 @@
 - [Amplify Getting Started Analytics](https://docs.amplify.aws/lib/analytics/getting-started/q/platform/android/)
 
 #### [lab](https://github.com/Ahmad-A2020/taskmaster):
-![lab39](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab39-1.PNG)
+![lab39](/Code-401/ScreenShot/lab39-1.PNG)
 
 ### Using Amazon Kinesis
 
