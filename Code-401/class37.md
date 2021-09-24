@@ -6,7 +6,7 @@
 - [Android File Picker](https://developer.android.com/guide/topics/providers/document-provider)
 
 #### [lab](https://github.com/Ahmad-A2020/taskmaster):
-![lab33](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab37-1.PNG)
+![lab33](/Code-401/ScreenShot/lab37-1.PNG)
 
 ### Introduction to Amazon S3
 - Amazon Simple Storage Service (Amazon S3) is storage for the Internet. It is designed to make web-scale computing easier.
