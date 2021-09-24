@@ -1,3 +1,7 @@
+### [lab](https://github.com/Ahmad-A2020/cookie-stand):
+![lab9](/Code 201 Reading Notes/screenShot/lab9-1.PNG)
+![lab9](/Code 201 Reading Notes/screenShot/lab9-2.PNG)
+
 ### Summarized from the Duckett HTML book:
 
 #### Chapter 7: “Forms” (p.144-175)

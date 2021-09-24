@@ -1,3 +1,11 @@
+#### [lab](https://github.com/Ahmad-A2020/cookie-stand):
+![lab6](/Code 201 Reading Notes/screenShot/lab6-1.PNG)
+![lab6](/Code 201 Reading Notes/screenShot/lab6-2.PNG)
+![lab6](/Code 201 Reading Notes/screenShot/lab6-3.PNG)
+![lab6](/Code 201 Reading Notes/screenShot/lab6-4.PNG)
+![lab6](/Code 201 Reading Notes/screenShot/lab6-5.PNG)
+![lab6](/Code 201 Reading Notes/screenShot/lab6-6.PNG)
+![lab6](/Code 201 Reading Notes/screenShot/lab6-7.PNG)
 
 ## The following chapters are summarized From the Duckett JS book
 

@@ -1,3 +1,8 @@
+#### [lab](https://github.com/Ahmad-A2020/cookie-stand):
+![lab7](/Code 201 Reading Notes/screenShot/lab7-1.PNG)
+![lab7](/Code 201 Reading Notes/screenShot/lab7-2.PNG)
+![lab7](/Code 201 Reading Notes/screenShot/lab7-3.PNG)
+
 ### Summarized from the Duckett HTML book:
 #### Chapter 6: “Tables” (pp.126-145)
 - `<table>`: the `<table>` element is used to create a table. The contents of the table are written out row

@@ -1,3 +1,9 @@
+### [lab](https://github.com/Ahmad-A2020/cookie-stand):
+![lab8a](/Code 201 Reading Notes/screenShot/lab8-1.PNG)
+![lab8a](/Code 201 Reading Notes/screenShot/lab8-2.PNG)
+![lab8b](/Code 201 Reading Notes/screenShot/lab8-3.PNG)
+![lab8b](/Code 201 Reading Notes/screenShot/lab8-4.PNG)
+
 ### Summarized from From the Duckett HTML book:
 
 #### Ch. 15, “Layout”:

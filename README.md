@@ -21,7 +21,7 @@
 |  Read-03           |[Read-03](Code 201 Reading Notes/class-03.md)   |
 |  Read-04           |[Read-04](Code 201 Reading Notes/class-04.md)   |
 |  Read-05           |[Read-05](Code 201 Reading Notes/class-05.md)   |
-|  Read-06           |[Read-06](Code 201 Reading Notes/class-06.md)   |
+|  Read-06-Salmon Cookies           |[Read-06](Code 201 Reading Notes/class-06.md)   |
 |  Read-07           |[Read-07](Code 201 Reading Notes/class-07.md)   |
 |  Read-08           |[Read-08](Code 201 Reading Notes/class-08.md)   |
 |  Read-09           |[Read-09](Code 201 Reading Notes/class-09.md)   |
