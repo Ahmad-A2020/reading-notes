@@ -3,9 +3,9 @@
 - [Different types of loops in Java](https://www.baeldung.com/java-loops)
 
 #### lab: 
-![lab1-1](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab2-1.PNG)
-![lab1-2](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab2-2.PNG)
-![lab1-2](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab2-3.PNG)
+![lab1-1](/Code-401/ScreenShot/lab2-1.PNG)
+![lab1-2](/Code-401/ScreenShot/lab2-2.PNG)
+![lab1-2](/Code-401/ScreenShot/lab2-3.PNG)
 
 ### Java Imports (ignore the parts about NetBeans):
 - Packages: it is the directory contains the .java files (clases).
