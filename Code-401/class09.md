@@ -3,8 +3,8 @@
 - [Java HTTP Request example](https://www.baeldung.com/java-http-request)
 
 #### [lab](https://github.com/Ahmad-A2020/quotes):
-![lab9](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab9-1.PNG)
-![lab9](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab9-2.PNG)
+![lab9](\Code-401\ScreenShot\lab9-1.PNG)
+![lab9](\Code-401\ScreenShot\lab9-2.PNG)
 
 ### Review: High-level HTTP
 HTTP request lifecycle
