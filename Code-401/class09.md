@@ -3,7 +3,7 @@
 - [Java HTTP Request example](https://www.baeldung.com/java-http-request)
 
 #### [lab](https://github.com/Ahmad-A2020/quotes):
-![lab9](\ScreenShot\lab9-1.PNG)
+![lab9](https://github.com/Ahmad-A2020/reading-notes/blob/main/Code-401/ScreenShot/lab9-1.PNG)
 ![lab9](ScreenShot\lab9-2.PNG)
 
 ### Review: High-level HTTP
