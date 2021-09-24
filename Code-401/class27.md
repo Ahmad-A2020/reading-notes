@@ -2,8 +2,8 @@
 - [RecyclerView for displaying lists of data](https://developer.android.com/guide/topics/ui/layout/recyclerview#java)
 
 #### [lab](https://github.com/Ahmad-A2020/taskmaster):
-![lab27](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab27-1.PNG)
-![lab27](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab27-2.PNG)
+![lab27](/Code-401/ScreenShot/lab27-1.PNG)
+![lab27](/Code-401/ScreenShot/lab27-2.PNG)
 
 #### Android Tasks and the Back Stack
 - A task is a collection of activities that users interact with when performing a certain job. 
