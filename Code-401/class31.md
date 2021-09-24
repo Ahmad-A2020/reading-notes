@@ -5,8 +5,8 @@
 - [Ridiculous superpower: the Espresso Test Recorder](https://developer.android.com/studio/test/espresso-test-recorder)
 
 #### [lab](https://github.com/Ahmad-A2020/taskmaster):
-![lab31](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab31-1.PNG)
-![lab31](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab31-2.PNG)
+![lab31](/Code-401/ScreenShot/lab31-1.PNG)
+![lab31](/Code-401/ScreenShot/lab31-2.PNG)
 
 #### Espresso :
 - Definition: Espresso is a testing framework for Android to make it easy to write reliable user interface tests.
