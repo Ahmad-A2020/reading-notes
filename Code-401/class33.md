@@ -4,8 +4,8 @@
 - [GraphQL @connection section](https://docs.amplify.aws/cli/graphql-transformer/connection/)
 
 #### [lab](https://github.com/Ahmad-A2020/taskmaster):
-![lab33](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab33-1.PNG)
-![lab33](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab33-2.PNG)
+![lab33](/Code-401/ScreenShot/lab33-1.PNG)
+![lab33](/Code-401/ScreenShot/lab33-2.PNG)
 
 #### GraphQL @connection section: 
 - **@connection:** The @connection directive enables you to specify relationships between @model types.
