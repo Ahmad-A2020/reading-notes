@@ -4,7 +4,7 @@
 
 #### [lab](https://github.com/Ahmad-A2020/quotes):
 ![lab9](reading-notes/blob/main/Code-401/ScreenShot/lab9-1.PNG)
-![lab9](ScreenShot\lab9-2.PNG)
+![lab9](/Code-401/ScreenShot/lab9-2.PNG)
 
 ### Review: High-level HTTP
 HTTP request lifecycle
