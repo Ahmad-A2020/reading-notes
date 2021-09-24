@@ -4,8 +4,8 @@
 - [Java Inheritance & Interfaces Tutorial](https://docs.oracle.com/javase/tutorial/java/IandI/index.html)
 
 #### [lab](https://github.com/Ahmad-A2020/java-fundamentals):
-![lab3](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab6-1.PNG)
-![lab3](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab6-2.PNG)
+![lab3](/Code-401/ScreenShot/lab6-1.PNG)
+![lab3](/Code-401/ScreenShot/lab6-2.PNG)
 
 ####  Java Inheritance & Interfaces Tutorial
 - An **interface** is thus a type definition; anywhere an object can be exchanged (for example, in a function or method call) the type of the object to be exchanged can be defined in terms of one of its implemented interfaces or base-classes rather than specifying the specific class.
