@@ -80,7 +80,7 @@
 |Read: 28 - RecyclerView          |[Read-28](Code-401/class28)  |
 |Read: 29 - Room                  |[Read-29](Code-401/class29)  |
 |Read: 30 - Hash Tables           |[Read-30](Code-401/class30)  |
-|Read: 31 - Espresso              |[Read-31](Code-401/class31)  |
+|Read: 31 - Espresso              |[Read-31](/Code-401/class31)  |
 |Read: 32 - Serverless and Amplify|[Read-32](Code-401/class32)  |
 |Read: 33 - GraphQL @connection   |[Read-33](Code-401/class33)  |
 |Read: 34 - Publishing-Play Store |[Read-34](Code-401/class34)  |
