@@ -2,7 +2,7 @@
 - [Spring and Sockets](https://spring.io/guides/gs/messaging-stomp-websocket/)
 - 
 #### [lab](https://github.com/Ahmad-A2020/songr):
-![lab17](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab19-1.PNG)
+![lab17](/Code-401/ScreenShot/lab19-1.PNG)
 
 ### Using WebSocket to build an interactive web application
 - **WebSocket:** is a computer communications protocol, providing full-duplex communication channels over a single TCP connection. The WebSocket protocol was standardized by the IETF as RFC 6455 in 2011, and the WebSocket API in Web IDL is being standardized by the W3C. WebSocket is distinct from HTTP.
