@@ -1,7 +1,7 @@
 - [Resources](https://developer.android.com/distribute/best-practices/earn/monetization-options)
 
 #### [lab](https://github.com/Ahmad-A2020/taskmaster):
-![lab34](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab34-1.PNG)
+![lab34](/Code-401/ScreenShot/lab34-1.PNG)
 
 #### Android Monetization:
   - How to Sell goods or services through your app ?   there are two primary ways you can accept payments: Google Play's billing system and Google Pay.
