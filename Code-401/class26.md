@@ -4,8 +4,8 @@
 - [Android UI Events](https://developer.android.com/guide/topics/ui/ui-events.html)
 
 #### [lab](https://github.com/Ahmad-A2020/taskmaster):
-![lab26](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab26-1.PNG)
-![lab26](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab26-2.PNG)
+![lab26](/Code-401/ScreenShot/lab26-1.PNG)
+![lab26](/Code-401/ScreenShot/lab26-2.PNG)
 
 #### [Android fundamentals](https://developer.android.com/guide/components/fundamentals)
 - there are many languages could be use to create android application including Kotlin, Java, and C++. 
