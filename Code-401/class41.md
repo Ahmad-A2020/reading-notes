@@ -3,7 +3,7 @@
 
 
 #### [lab](https://github.com/Ahmad-A2020/taskmaster):
-![lab41](C:\Users\Ahmad\asac\reading-notes\Code-401\ScreenShot\lab41-1.PNG)
+![lab41](/Code-401/ScreenShot/lab41-1.PNG)
 
 ### Allowing Other Apps to Start Your Activity
  - To allow other apps to start your activity in this way, you need to add an <intent-filter> element in your manifest file for the corresponding <activity> element.
