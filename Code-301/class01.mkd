@@ -1,3 +1,14 @@
+### Resources:
+- [Component-Based Architecture](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
+- [Props](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0?gi=aa3ffbc95bbf#:~:text=%E2%80%9CProps%E2%80%9D%20is%20a%20special%20keyword,way%20from%20parent%20to%20child)
+- [introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
+- [Rendering Elements](https://reactjs.org/docs/rendering-elements.html)
+- [Components and props](https://reactjs.org/docs/components-and-props.html)
+
+#### lab:
+![lab1](/Code-301/screenShot/lab1-1.PNG)
+
+
 ### Component Based Architecture:
 - What is a component?
 - **Answer:**A component is a modular, portable, replaceable, and reusable set of well-defined functionality that encapsulates its implementation and exporting it as a higher-level interface.

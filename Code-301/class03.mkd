@@ -1,4 +1,16 @@
-Reading
+
+### Resources:
+- [React Docs - lists and keys](https://reactjs.org/docs/lists-and-keys.html)
+- [The Spread Operator](https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab)
+- [How to Pass Functions Between Components](https://www.youtube.com/watch?v=c05OL7XbwXU)
+- [React Tutorial through ‘Declaring a Winner’](https://reactjs.org/tutorial/tutorial.html)
+- [React Docs - Lifting State Up](https://reactjs.org/docs/lifting-state-up.html)
+
+#### [lab](https://github.com/Ahmad-A2020/horned-animals):
+![lab3](/Code-301/screenShot/lab3-1.PNG)
+![lab3](/Code-301/screenShot/lab3-2.PNG)
+![lab3](/Code-301/screenShot/lab3-3.PNG)
+
 ### React Docs - lists and keys
 - What does .map() return?
 - **Answer:** it return an array that have the same length of the one you applied the callout function on it. 

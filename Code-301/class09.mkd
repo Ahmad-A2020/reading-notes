@@ -1,3 +1,11 @@
+### Resources:
+- [Functional Programming Concepts](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
+- [Node JS Tutorial for Beginners #6 - Modules and require()](https://www.youtube.com/watch?v=xHLd36QoS4k)
+
+#### [lab](https://github.com/Ahmad-A2020/horned-animals):
+![lab9](/Code-301/screenShot/lab9-1.PNG)
+![lab9](/Code-301/screenShot/lab9-2.PNG)
+
 ### Functional Programming Concepts
 - What is functional programming?
     - **Answer:**nctional programming is a programming paradigm — a style of building the structure and elements of computer programs — that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data 

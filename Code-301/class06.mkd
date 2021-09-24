@@ -1,3 +1,14 @@
+### Resources:
+- [An Introduction to Node.js on sitepoint.com](https://www.sitepoint.com/an-introduction-to-node-js/)
+- [6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
+- [Geocoding API Docs](https://locationiq.com/)
+- [Axios docs](https://www.npmjs.com/package/axios)
+- [MDN async and await](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await)
+
+#### [lab](https://github.com/Ahmad-A2020/horned-animals):
+![lab6](/Code-301/screenShot/lab6-1.PNG)
+![lab6](/Code-301/screenShot/lab6-2.PNG)
+
 ### An Introduction to Node.js on sitepoint.com
 - What is node.js?
 - **Answer:** Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser.

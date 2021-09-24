@@ -1,4 +1,15 @@
-### React Docs - Forms: 
+
+### Resources:
+- [React Docs - Forms](https://reactjs.org/docs/forms.html)
+- [The Conditional (Ternary) Operator Explained](https://codeburst.io/javascript-the-conditional-ternary-operator-explained-cac7218beeff)
+- [React Bootstrap - Forms](https://react-bootstrap.github.io/components/forms/)
+- [Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)
+- [React Docs - Lifting State Up](https://reactjs.org/docs/lifting-state-up.html)
+
+#### [lab](https://github.com/Ahmad-A2020/horned-animals):
+![lab4](/Code-301/screenShot/lab4-1.PNG)
+
+### React Docs - Forms:
 
 - What is a ‘Controlled Component’? 
 - **A Controlled Component:** is one that takes its current value through props and notifies changes through callbacks like onChange . A parent component "controls" it by handling the callback and managing its own state and passing the new values as props to the controlled component

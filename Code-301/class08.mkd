@@ -1,3 +1,14 @@
+### Resources:
+- [API Design Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+- [RegExr](https://regexr.com/)
+- [Regex Tutorial](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
+- [Regex 101](https://regex101.com/)
+
+#### [lab](https://github.com/Ahmad-A2020/horned-animals):
+![lab8](/Code-301/screenShot/lab8-1.PNG)
+![lab8](/Code-301/screenShot/lab8-2.PNG)
+![lab8](/Code-301/screenShot/lab8-3.PNG)
+
 ### API Design Best Practices
 - What does REST stand for?
 - **Answer:**  REST is an architectural style for building distributed systems based on hypermedia. REST is independent of any underlying protocol and is not necessarily tied to HTTP. 

@@ -1,3 +1,12 @@
+### Resources:
+- [Understanding the JavaScript Call Stack](https://www.freecodecamp.org/news/understanding-the-javascript-call-stack-861e41ae61d4/)
+- [JavaScript error messages](https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c)
+- [JavaScript errors reference on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors)
+
+#### [lab](https://github.com/Ahmad-A2020/horned-animals):
+![lab10](/Code-301/screenShot/lab10-1.PNG)
+![lab10](/Code-301/screenShot/lab10-2.PNG)
+
 ### Understanding the JavaScript Call Stack
 - What is a ‘call’?
 - **Answer:**  function invocation

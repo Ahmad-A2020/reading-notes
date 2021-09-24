@@ -1,4 +1,15 @@
-### React Docs - thinking in React: 
+### Resources:
+- [React Docs - Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
+- [Higher-Order Functions](https://eloquentjavascript.net/05_higher_order.html#h_xxCc98lOBK)
+- [React Bootstrap - Forms](https://react-bootstrap.github.io/components/forms/)
+- [Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)
+- [React Docs - Lifting State Up](https://reactjs.org/docs/lifting-state-up.html)
+
+#### [lab](https://github.com/Ahmad-A2020/Portfolio):
+![lab5](/Code-301/screenShot/lab5-1.PNG)
+![lab5](/Code-301/screenShot/lab5-2.PNG)
+
+### React Docs - thinking in React:
 
 - How would you break a mock into a component heirarchy?
 - **Answer:** 

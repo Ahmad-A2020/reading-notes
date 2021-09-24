@@ -1,0 +1,7 @@
+- [Install MongoDB on WSL](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-database#install-mongodb)
+- ![environmentSetup-1.PNG](Code-301/screenShot/environmentSetup-1.PNG)
+- ![environmentSetup-1.PNG](Code-301/screenShot/environmentSetup-2.PNG)
+- ![environmentSetup-1.PNG](Code-301/screenShot/environmentSetup-3.PNG)
+- ![environmentSetup-1.PNG](Code-301/screenShot/environmentSetup-4.PNG)
+- ![environmentSetup-1.PNG](Code-301/screenShot/environmentSetup-5.PNG)
+- ![environmentSetup-1.PNG](Code-301/screenShot/environmentSetup-6.PNG)

@@ -35,22 +35,22 @@
 
 ### Level 301:
 
-|  **Assignments:**  |           **Link:**          |
-|--------------------|------------------------------|
-|  Read-01           |[Read-01](Code-301/class01)   |
-|  Read-02           |[Read-02](Code-301/class02)   |
-|  Read-03           |[Read-03](Code-301/class03)   |
-|  Read-04           |[Read-04](Code-301/class04)   |
-|  Read-05           |[Read-05](Code-301/class05)   |
-|  Read-06           |[Read-06](Code-301/class06)   |
-|  Read-07           |[Read-07](Code-301/class07)   |
-|  Read-08           |[Read-08](Code-301/class08)   |
-|  Read-09           |[Read-09](Code-301/class09)   |
-|  Read-10           |[Read-10](Code-301/class10)   |
-|  Read-11           |[Read-11](Code-301/class11)   |
-|  Read-12           |[Read-12](Code-301/class12)   |
-|  Read-13           |[Read-13](Code-301/class13)   |
-|  Read-14           |[Read-14](Code-301/class14)   |
+|           **Assignments:**         |           **Link:**          |
+|------------------------------------|------------------------------|
+|  Read-01-Introduction to React     |[Read-01](Code-301/class01)   |
+|  Read-02-React State and Props     |[Read-02](Code-301/class02)   |
+|  Read-03-Passing Functions in Prop |[Read-03](Code-301/class03)   |
+|  Read-04-Forms and Filter          |[Read-04](Code-301/class04)   |
+|  Read-05-Portfolio                 |[Read-05](Code-301/class05)   |
+|  Read-06-Asynchronous code,and APIs|[Read-06](Code-301/class06)   |
+|  Read-07- Node and Express         |[Read-07](Code-301/class07)   |
+|  Read-08-APIs                      |[Read-08](Code-301/class08)   |
+|  Read-09-FUNCTIONAL PROGRAMMING    |[Read-09](Code-301/class09)   |
+|  Read-10-In memory storage         |[Read-10](Code-301/class10)   |
+|  Read-11- Mongo and Mongoose       |[Read-11](Code-301/class11)   |
+|  Read-12 -CRUD                     |[Read-12](Code-301/class12)   |
+|  Read-13-Update a Resource         |[Read-13](Code-301/class13)   |
+|  Read-14- Auth0                    |[Read-14](Code-301/class14)   |
 
 
 ### Level 401:

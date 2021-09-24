@@ -1,3 +1,20 @@
+### Resources:
+- [React lifecycle](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093)
+- [React Bootstrat Documentation](https://react-bootstrap.github.io/)
+- [Netlify](https://www.netlify.com/)
+- [React State Vs Props](https://www.youtube.com/watch?v=IYvD9oBCuJI)
+- [React Docs - State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
+- [Handling Events](https://reactjs.org/docs/handling-events.html)
+- [React Tutorial through ‘Developer Tools’](https://canvas.instructure.com/courses/2807378/discussion_topics/11365898?module_item_id=46260119)
+- [data.json](https://codefellows.github.io/code-301-guide/curriculum/class-02/lab/assets/data.json)
+
+#### [lab](https://github.com/Ahmad-A2020/horned-animals):
+![lab2](/Code-301/screenShot/lab2-1.PNG)
+![lab2](/Code-301/screenShot/lab2-2.PNG)
+![lab2](/Code-301/screenShot/lab2-3.PNG)
+![lab2](/Code-301/screenShot/lab2-4.PNG)
+
+
  #### Based off the diagram:
  - what happens first, the ‘render’ or the ‘componentDidMount’?
  render

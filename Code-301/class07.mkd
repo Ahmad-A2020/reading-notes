@@ -1,3 +1,14 @@
+### Resources:
+- [How I explained REST to my brother](https://gist.github.com/brookr/5977550)
+- [Node JS Docs](https://nodejs.org/en/)
+- [NPM JS Docs](https://docs.npmjs.com/)
+- [Express JS Docs](http://expressjs.com/en/4x/api.html)
+- [dotenv Docs](https://www.npmjs.com/package/dotenv)
+
+#### [lab](https://github.com/Ahmad-A2020/horned-animals):
+![lab7](/Code-301/screenShot/lab7-1.PNG)
+![lab7](/Code-301/screenShot/lab7-2.PNG)
+![lab7](/Code-301/screenShot/lab7-3.PNG)
 
 ### What Google Learned From Its Quest to Build the Perfect Team
 sammarized in 201 class 14
